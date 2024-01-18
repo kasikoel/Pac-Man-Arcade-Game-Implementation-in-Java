@@ -1,2 +1,3 @@
 # Pac-Man-Arcade-Game-Implementation-in-Java
-Developed a classic arcade game implementation of Pac-Man in Java, offering players a nostalgic gaming experience with engaging features.
+Developed a classic arcade game implementation of Pac-Man in Java, offering players a nostalgic gaming experience with engaging features. The game incorporates multiple levels, intricate mazes, and challenging enemy interactions. Users control Pac-Man using arrow keys, navigate through mazes, and strategically collect dots to progress. The game continues until players successfully complete all levels or exhaust their lives. The implementation showcases fundamental game development concepts, including character movement, collision detection, level progression, and sound integration, contributing to an immersive and enjoyable gaming experience. 
+
